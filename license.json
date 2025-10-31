@@ -2,5 +2,5 @@
   "username": "test_user",
   "key": "ABC123",
   "expiry": "2025-12-31",
-  "hdd": "hashed_hdd_serial"
-}
+  }
+
