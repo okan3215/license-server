@@ -1,10 +1,6 @@
 {
   "ABC123-XYZ789": {
     "user": "Ali Koç",
-    "expires": "2025-12-31T23:59:59"
-  },
-  "FULL-9999-KEY": {
-    "user": "Tam Sürüm Kullanıcısı",
-    "expires": "2026-12-31T00:00:00"
+    "expires": "2025-10-31T23:59:59"
   }
-}
+
